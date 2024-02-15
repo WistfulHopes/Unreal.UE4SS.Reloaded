@@ -1,0 +1,21 @@
+{
+  "ModId": "Unreal.UE4SS.Reloaded",
+  "ModName": "UE4SS",
+  "ModAuthor": "WistfulHopes, UE4SS Team",
+  "ModVersion": "3.0.1",
+  "ModDescription": "UE4SS as a Reloaded mod",
+  "ModDll": "Unreal.UE4SS.Reloaded.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/Unreal.UE4SS.Reloaded.dll",
+  "ModR2RManagedDll64": "x64/Unreal.UE4SS.Reloaded.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "Unreal.UE4SS.Reloaded.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": true,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [],
+  "ProjectUrl": ""
+}
